@@ -6,7 +6,7 @@
 
 - Com o Ngrok instalado e aberto em sua máquina, após o link raiz ao final da URL temos as opções `/service` `/banho` `/tosa` `/desconto`
 
-- Import o Fluxo para seu Builder e no bloco `Banho e tosa` em `Ações`, `Requisição HTTTP` coloque em `URL` o link gerado pelo Ngrok/service
+- Import o Fluxo para seu Builder e no bloco `Banho e tosa` em `Ações`, `Requisição HTTTP` coloque em `URL` o link gerado pelo `Ngrok/service`.
 
 # CORREÇÃO
 
